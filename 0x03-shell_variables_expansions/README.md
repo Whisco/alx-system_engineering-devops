@@ -14,3 +14,4 @@ environment variables
 BINARY
 combinations
 NUM
+DECIMAL
