@@ -1,0 +1,3 @@
+#!bin/bash
+sort | uniq -u
+ a script that takes a list of words as input
