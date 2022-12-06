@@ -7,3 +7,4 @@ Display lines containing the pattern
 chicago
 An acrostic
 Uses the IP address
+.gif
