@@ -11,3 +11,4 @@ global variable
 environment variables
 variable
 environment variables
+BINARY
