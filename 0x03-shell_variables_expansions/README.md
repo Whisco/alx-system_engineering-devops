@@ -5,3 +5,4 @@ hello user
 directories
  environment variables
 environment
+local variable
