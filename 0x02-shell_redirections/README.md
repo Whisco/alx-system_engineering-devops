@@ -5,3 +5,4 @@ Display lines containing the pattern
 /etc/passwd
 /etc/passwd
 chicago
+An acrostic
