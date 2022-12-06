@@ -15,3 +15,4 @@ BINARY
 combinations
 NUM
 DECIMAL
+rot13 encryption
