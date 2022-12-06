@@ -6,3 +6,4 @@ directories
  environment variables
 environment
 local variable
+local variable
