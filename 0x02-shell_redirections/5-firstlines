@@ -1,1 +1,2 @@
-Display the first 10 lines
+#!/bin/bash
+head -10 /etc/passwd
