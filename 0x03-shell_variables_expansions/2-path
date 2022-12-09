@@ -1,2 +1,2 @@
 #!/bin/bash
-PATH=$PPATH:/action
+PATH=$PATH:/action
